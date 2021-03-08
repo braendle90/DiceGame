@@ -71,7 +71,7 @@ public class Main {
                             System.exit(0);
                             break;
                         default:
-                            System.out.println("idiot");
+                            System.out.println("Wrong input please press 1. for Start and 2. for exit!");
 
 
                     }
